@@ -1,4 +1,4 @@
-<?php include __DIR__ . "../../Model/db.php"; ?>
+<?php include_once __DIR__ . "../../Model/db.php"; ?>
 
 
 <main>
